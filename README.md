@@ -2,7 +2,7 @@
 
 Exploratory analysis, statistical testing, and predictive modelling on 25 seasons (2000–2025) of Premier League match data, using Arsenal as a case study before extending to home advantage and match outcome prediction across the league.
 
-View the original notebook on Kaggle: [Club Football Match Data: Analysis and Modelling]([YOUR_KAGGLE_NOTEBOOK_UR](https://www.kaggle.com/code/samueldalbyquenet/final-version-atm)
+View the original notebook on Kaggle: [Club Football Match Data: Analysis and Modelling](https://www.kaggle.com/code/samueldalbyquenet/final-version-atm)
 
 ## Contents
 - Data cleaning and validation (team name standardisation, missing data checks)
